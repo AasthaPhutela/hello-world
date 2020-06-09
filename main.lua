@@ -18,6 +18,6 @@ function love.draw()
         'Hello Pong!',
         0,
         WINDOW_HEIGHT / 2 - 6,
-        WINDOW_WIDTH,  
-        'center')             
+        WINDOW_WIDTH,
+        'center')
 end
